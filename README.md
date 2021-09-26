@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Felipe Araujo
-- 👀 I’m interested in to develop to back-end and front-end.
-- 🌱 I’m currently learning Java, Spring, HTML, CSS, JavaScript and React.
+Ola, sou Felipe Araujo, estou em fase de conclusão do meu doutorado em modelagem computacional e otimização de sensoreses ópticos e estou em fase de transição para a area de Tecnologia da Informaçao cursando um tecnólogo em Análise e Desenvolvimento de Sistemas. Estou interessado em densenvolver sistemas para beck-end e front-end e por isso atualmente estou aprendendo Java, Spring, HTML, CSS, JavaScript e React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
